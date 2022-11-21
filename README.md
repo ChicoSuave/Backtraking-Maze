@@ -1,6 +1,6 @@
-# Backtraking-Maze
+# Backtracking-Maze
 
-The Haunted but Magical Maze - Solved with Backtraking
+The Haunted but Magical Maze - Solved with Backtracking
 
 The Maze Files and Understanding the Maze Itself:
 You are provided a total of 5 text files. Inside each text file is a maze. Here is a sample below.
